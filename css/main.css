@@ -24,12 +24,20 @@ li {
     
 }
 
+
+
+
 a {
    /*outline: 1px solid green;*/
     display: block;
     text-decoration: none;
     color: #000;
     padding-left: 8px;
+    
+}
+
+a:hover {
+    background: #e0e0d1;
 }
 
 ul li:first-child {
