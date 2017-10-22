@@ -43,3 +43,12 @@ a:hover {
 ul li:first-child {
  background: #f9a91a;
 }
+
+ul li:first-child a {
+    color: #fff;
+}
+
+ul li:first-child a:hover {
+    color: #000;
+}
+
