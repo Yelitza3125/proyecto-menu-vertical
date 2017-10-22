@@ -11,12 +11,20 @@ body {
 
 ul {
     outline: 1px solid yellow;
-    list-style: none
+    list-style: none;
     margin: 0;
     padding: 0;
+    width: 160px;
 }
 
 li {
     outline: 1px solid red;
     
+}
+
+a {
+    outline: 1px solid green;
+    display: block;
+    text-decoration: none;
+    color: #000;
 }
