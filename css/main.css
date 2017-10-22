@@ -9,12 +9,15 @@ body {
     font-family: sans-serif;
 }
 
+nav {
+    width: 200px;
+}
+
 ul {
    /* outline: 1px solid yellow; */
     list-style: none;
     margin: 0;
-    padding: 0;
-    width: 200px;
+    padding: 0;  
     line-height: 30px;
 }
 
