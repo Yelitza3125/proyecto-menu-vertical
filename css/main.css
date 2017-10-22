@@ -40,6 +40,11 @@ a:hover {
     background: #e0e0d1;
 }
 
+a:active {
+    background: #333;
+    color: #fff;
+}
+
 ul li:first-child {
  background: #f9a91a;
 }
@@ -48,7 +53,7 @@ ul li:first-child a {
     color: #fff;
 }
 
-ul li:first-child a:hover {
-    color: #000;
+ul li:first-child a:active {
+    color: #fff;
 }
 
